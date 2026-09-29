@@ -1,6 +1,6 @@
 ---
 name: kirby-fitzpatrick-decoupled-reader-delivery
-description: "Isolate internal exploratory trial-and-error reasoning from final user-facing delivery." Use this when working on fitzpatrick decoupled reader delivery.
+description: "Isolate internal exploratory trial-and-error reasoning from final user-facing delivery. Use this when working on fitzpatrick decoupled reader delivery."
 category: "Writing & Communication"
 triggers:
   - "decoupled reader delivery"
