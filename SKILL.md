@@ -9,7 +9,7 @@ triggers:
   - "strip internal monologue"
   - "clean output"
 risk: unverified
-author: william-fitzpatrick
+author: paul-kirby
 tags: [kirby, ai-agent, workflow]
 ---
 
